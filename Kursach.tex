@@ -143,6 +143,28 @@
 	
 	\noindent Задача состоит в том, чтобы узнать, достигается ли нижняя оценка для классов $A_0, A_1, A_2$, и построить алгоритм, для которого она 
 	достигается.
+
+ \begin{figure}[h]
+ 	\begin{center}
+ 		\begin{minipage}[h]{0.3\linewidth}
+ 			\includegraphics[width=1\linewidth]{A0}
+ 			\caption{Класс $A_0$.} %% подпись к рисунку
+ 			\label{ris:A0} %% метка рисунка для ссылки на него
+ 		\end{minipage}
+ 		\hfill 
+ 		\begin{minipage}[h]{0.3\linewidth}
+ 			\includegraphics[width=1\linewidth]{A1}
+ 			\caption{Класс $A_1$.}
+ 			\label{ris:A1}
+ 		\end{minipage}
+ 		\hfill 
+ 		\begin{minipage}[h]{0.3\linewidth}
+ 		\includegraphics[width=1\linewidth]{A2}
+ 		\caption{Класс $A_2$.}
+ 		\label{ris:A2}
+ 	\end{minipage}
+ 	\end{center}
+ \end{figure}
 	
 	\section{Решение} 
 	\noindent Чтобы дать нижнюю оценку, посчитаем мощность классов $A_0, A_1, A_2$.\\
@@ -168,7 +190,7 @@
 		\begin{aligned}
 			1. \lceil \log_2{|A_0|} \rceil & = \log_2{2^n} = n  \\		
 			2. \lceil \log_2{|A_1|} \rceil & = \log_2[2^n] = n  \\
-			3. \lceil \log_2{|A_2|} \rceil & = \lceil \log_2{2^n - n} \rceil.  \\
+			3. \lceil \log_2{|A_2|} \rceil & = \lceil \log_2(2^n - n) \rceil.  \\
 		\end{aligned}
 	\end{displaymath}
 	
