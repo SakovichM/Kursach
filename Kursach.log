@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.5)  12 APR 2017 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.5)  14 APR 2017 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/extsizes/extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
@@ -669,40 +669,55 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(./Kursach.aux
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks27
+)
+\c@lem=\count102
+\c@thm=\count103
+ (./Kursach.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `Kursach.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
- (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
+\scratchcounter=\count104
 \scratchdimen=\dimen118
 \scratchbox=\box28
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count105
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count107
 \MPscratchDim=\dimen119
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -753,18 +768,18 @@ e
 <logo-mgu.png, id=1, 24.09pt x 23.8491pt>
 File: logo-mgu.png Graphic file (type png)
  <use logo-mgu.png>
-Package pdftex.def Info: logo-mgu.png used on input line 37.
+Package pdftex.def Info: logo-mgu.png used on input line 51.
 (pdftex.def)             Requested size: 102.5564pt x 101.54759pt.
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-
 mgu.png>]
 (./Kursach.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -776,74 +791,98 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 89.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 103.
 
 Missing character: There is no С in font cmr12!
 [3
 
-] [4
+] [4] [5
 
-] <A0.png, id=34, 642.4pt x 481.8pt>
+] <A0.png, id=36, 642.4pt x 481.8pt>
 File: A0.png Graphic file (type png)
  <use A0.png>
-Package pdftex.def Info: A0.png used on input line 150.
+Package pdftex.def Info: A0.png used on input line 171.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
 
-<A1.png, id=35, 642.4pt x 481.8pt>
+<A1.png, id=37, 642.4pt x 481.8pt>
 File: A1.png Graphic file (type png)
  <use A1.png>
-Package pdftex.def Info: A1.png used on input line 156.
+Package pdftex.def Info: A1.png used on input line 177.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
 
-<A2.png, id=36, 642.4pt x 481.8pt>
+<A2.png, id=38, 642.4pt x 481.8pt>
 File: A2.png Graphic file (type png)
  <use A2.png>
-Package pdftex.def Info: A2.png used on input line 162.
+Package pdftex.def Info: A2.png used on input line 183.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
- [5
+ [6
 
- <./A0.png> <./A1.png> <./A2.png>] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-[]\T2A/cmr/m/n/12 Гаврилов Г.П., Са-по-жен-ко А.А. \T2A/cmr/m/it/12 Сбор-ник за
--дач по дис-крет-ной ма-те-ма-ти-ке.
+ <./A0.png> <./A1.png> <./A2.png>] [7
+
+] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 303--313
+\T2A/cmr/m/n/14.4 который по-лу-ча-ет-ся из на-бо-ра $[]$ за-ме-ной $\OT1/cmr/m
+/n/14.4 1$\T2A/cmr/m/n/14.4 , сто-я-щих на ме-стах
  []
 
-[8
+
+Underfull \hbox (badness 6001) in paragraph at lines 303--313
+\T2A/cmr/m/n/14.4 Если $\OML/cmm/m/it/14.4 f\OT1/cmr/m/n/14.4 ([]) = 0$\T2A/cmr
+/m/n/14.4 , то су-ще-ствен-ная пе-ре-мен-ная на-хо-дит-ся сре-ди
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--313
+\T2A/cmr/m/n/14.4 Переменная $\OML/cmm/m/it/14.4 x[]$ \T2A/cmr/m/n/14.4 - яв-ля
+-ет-ся су-ще-ствен-ной. Пусть $\OML/cmm/m/it/14.4 [] \OT1/cmr/m/n/14.4 =
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 303--313
+\OT1/cmr/m/n/14.4 (0\OML/cmm/m/it/14.4 ; [] ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/
+14.4 ; \OT1/cmr/m/n/14.4 1\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it
+/14.4 ; [] ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 1\OML/cm
+m/m/it/14.4 ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; [] ; \OT1/cmr/m/n/14.4 0)
+$\T2A/cmr/m/n/14.4 , где на $\OML/cmm/m/it/14.4 i$\T2A/cmr/m/n/14.4 -м и $\OML/
+cmm/m/it/14.4 k$\T2A/cmr/m/n/14.4 -м ме-стах сто-ят $\OT1/cmr/m/n/14.4 1$\T2A/c
+mr/m/n/14.4 , а на всех
+ []
+
+[9] [10] [11
 
 ] (./Kursach.aux) ) 
 Here is how much of TeX's memory you used:
- 3909 strings out of 493014
- 49617 string characters out of 6133352
- 118941 words of memory out of 5000000
- 7361 multiletter control sequences out of 15000+600000
- 17298 words of font info for 43 fonts, out of 8000000 for 9000
+ 3981 strings out of 493014
+ 50474 string characters out of 6133352
+ 119361 words of memory out of 5000000
+ 7435 multiletter control sequences out of 15000+600000
+ 16084 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,26p,358b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,26p,336b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super
 /cm-super-t2a.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/l
+s/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on Kursach.pdf (8 pages, 300028 bytes).
+al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
+Output written on Kursach.pdf (11 pages, 292560 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
