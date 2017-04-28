@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.5)  26 APR 2017 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.5)  28 APR 2017 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,6 +683,8 @@ Package: amsthm 2015/03/04 v2.20.2
 )
 \c@lem=\count102
 \c@thm=\count103
+\c@sled=\count104
+\c@alg=\count105
  (./Kursach.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmr.fd
@@ -690,33 +692,33 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `Kursach.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count106
 \scratchdimen=\dimen118
 \scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count107
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen119
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
@@ -768,7 +770,7 @@ e
 <logo-mgu.png, id=1, 24.09pt x 23.8491pt>
 File: logo-mgu.png Graphic file (type png)
  <use logo-mgu.png>
-Package pdftex.def Info: logo-mgu.png used on input line 51.
+Package pdftex.def Info: logo-mgu.png used on input line 53.
 (pdftex.def)             Requested size: 102.5564pt x 101.54759pt.
  [1
 
@@ -793,11 +795,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 124.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 127.
 
 Missing character: There is no С in font cmr12!
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 125.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 128.
 
 Missing character: There is no С in font cmr12!
 [4] [5
@@ -805,61 +807,54 @@ Missing character: There is no С in font cmr12!
 ] <A0.png, id=37, 642.4pt x 481.8pt>
 File: A0.png Graphic file (type png)
  <use A0.png>
-Package pdftex.def Info: A0.png used on input line 177.
+Package pdftex.def Info: A0.png used on input line 181.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
 
 <A1.png, id=38, 642.4pt x 481.8pt>
 File: A1.png Graphic file (type png)
  <use A1.png>
-Package pdftex.def Info: A1.png used on input line 183.
+Package pdftex.def Info: A1.png used on input line 187.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
 
 <A2.png, id=39, 642.4pt x 481.8pt>
 File: A2.png Graphic file (type png)
  <use A2.png>
-Package pdftex.def Info: A2.png used on input line 189.
+Package pdftex.def Info: A2.png used on input line 193.
 (pdftex.def)             Requested size: 153.8385pt x 115.37704pt.
  [6
 
- <./A0.png> <./A1.png> <./A2.png>] [7
+ <./A0.png> <./A1.png> <./A2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+[]\T2A/cmr/m/n/14.4 Класс $\OML/cmm/m/it/14.4 A[]$ \T2A/cmr/m/n/14.4 по-рож-да-
+ет-ся по-сле-до-ва-тель-но-стью функ-ций
+ []
 
-] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 328--338
-\T2A/cmr/m/n/14.4 который по-лу-ча-ет-ся из на-бо-ра $[]$ за-ме-ной $\OT1/cmr/m
-/n/14.4 1$\T2A/cmr/m/n/14.4 , сто-я-щих на ме-стах
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 267--272
+
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 328--338
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+
+ []
+
+[8]
+Underfull \hbox (badness 6001) in paragraph at lines 336--346
 \T2A/cmr/m/n/14.4 Если $\OML/cmm/m/it/14.4 f\OT1/cmr/m/n/14.4 ([]) = 0$\T2A/cmr
 /m/n/14.4 , то су-ще-ствен-ная пе-ре-мен-ная на-хо-дит-ся сре-ди
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--338
-\T2A/cmr/m/n/14.4 Переменная $\OML/cmm/m/it/14.4 x[]$ \T2A/cmr/m/n/14.4 - яв-ля
--ет-ся су-ще-ствен-ной. Пусть $\OML/cmm/m/it/14.4 [] \OT1/cmr/m/n/14.4 =
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 328--338
-\OT1/cmr/m/n/14.4 (0\OML/cmm/m/it/14.4 ; [] ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/
-14.4 ; \OT1/cmr/m/n/14.4 1\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it
-/14.4 ; [] ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 1\OML/cm
-m/m/it/14.4 ; \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; [] ; \OT1/cmr/m/n/14.4 0)
-$\T2A/cmr/m/n/14.4 , где на $\OML/cmm/m/it/14.4 i$\T2A/cmr/m/n/14.4 -м и $\OML/
-cmm/m/it/14.4 k$\T2A/cmr/m/n/14.4 -м ме-стах сто-ят $\OT1/cmr/m/n/14.4 1$\T2A/c
-mr/m/n/14.4 , а на всех
  []
 
 [9] [10] [11
 
 ] (./Kursach.aux) ) 
 Here is how much of TeX's memory you used:
- 3985 strings out of 493014
- 50515 string characters out of 6133352
- 119369 words of memory out of 5000000
- 7438 multiletter control sequences out of 15000+600000
+ 3993 strings out of 493014
+ 50518 string characters out of 6133352
+ 120461 words of memory out of 5000000
+ 7446 multiletter control sequences out of 15000+600000
  16975 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,26p,336b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -885,7 +880,7 @@ ocal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on Kursach.pdf (11 pages, 321764 bytes).
+Output written on Kursach.pdf (11 pages, 320158 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
